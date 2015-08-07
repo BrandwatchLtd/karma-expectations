@@ -1,6 +1,6 @@
 {
   "name": "karma-expectations",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Karma adapter for tje expectations assertion module",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,13 @@
   ],
   "author": "Graham Scott",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrandwatchLtd/karma-expectations.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BrandwatchLtd/karma-expectations/issues"
+  },
   "dependencies": {
     "expectations": "^0.5.1",
     "karma": "^0.13.3"
