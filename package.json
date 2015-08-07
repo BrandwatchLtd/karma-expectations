@@ -1,7 +1,7 @@
 {
   "name": "karma-expectations",
   "version": "0.0.1",
-  "description": "Karma plugin for Expectations assertion module",
+  "description": "Karma adapter for tje expectations assertion module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,9 @@
     "expectations"
   ],
   "author": "Graham Scott",
-  "license": "ISC"
+  "license": "MIT",
+  "dependencies": {
+    "expectations": "^0.5.1",
+    "karma": "^0.13.3"
+  }
 }
