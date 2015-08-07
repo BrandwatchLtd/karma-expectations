@@ -1,0 +1,15 @@
+{
+  "name": "karma-expectations",
+  "version": "0.0.1",
+  "description": "Karma plugin for Expectations assertion module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "karma",
+    "expectations"
+  ],
+  "author": "Graham Scott",
+  "license": "ISC"
+}
